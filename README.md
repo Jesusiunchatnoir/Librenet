@@ -1,7 +1,6 @@
 # Forum CNT-AIT - 
 
 ## 📱 Application Forum
-:
 
 ### ✅ Fonctionnalités implémentées :
 - **Navigation par onglets** (Forum / Profil)
