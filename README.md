@@ -5,7 +5,7 @@
 
 ### ✅ Fonctionnalités implémentées :
 - **Navigation par onglets** (Forum / Profil)
-- **Design CNT-AIT** (couleurs rouge syndical)
+- **Design CNT-AIT** (couleurs rouge noir anarcho syndicaliste)
 
 ### 🎨 Interface :
 - **Écran Forum** : Liste des discussions, bouton flottant pour créer
