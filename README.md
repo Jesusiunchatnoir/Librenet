@@ -1,8 +1,7 @@
 # Forum CNT-AIT - 
 
 ## 📱 Application Forum
-
-Cette application Flutter reproduit l'interface d'un forum syndical avec :
+:
 
 ### ✅ Fonctionnalités implémentées :
 - **Navigation par onglets** (Forum / Profil)
