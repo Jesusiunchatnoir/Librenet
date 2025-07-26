@@ -14,14 +14,3 @@ Cette application Flutter reproduit l'interface d'un forum syndical avec :
 - **Création Post** : Formulaire titre/contenu avec validation
 - **Profil** : Avatar, stats, paramètres
 
-### 🚀 Pour lancer :
-```bash
-cd forum_app
-flutter run
-```
-
-
-    └── profile_screen.dart     # Profil utilisateur
-```
-
-L'application est fonctionnelle et affiche correctement l'interface du forum avec toutes les fonctionnalités de base.# Librenet
