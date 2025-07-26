@@ -1,4 +1,4 @@
-# Forum CNT-AIT - Application Flutter
+# Forum CNT-AIT - 
 
 ## 📱 Application Forum
 
@@ -6,10 +6,6 @@ Cette application Flutter reproduit l'interface d'un forum syndical avec :
 
 ### ✅ Fonctionnalités implémentées :
 - **Navigation par onglets** (Forum / Profil)
-- **Liste des discussions** avec titre, auteur, date, compteurs
-- **Détail des posts** avec réponses
-- **Création de nouveaux posts**
-- **Profil utilisateur** avec statistiques
 - **Design CNT-AIT** (couleurs rouge syndical)
 
 ### 🎨 Interface :
@@ -24,16 +20,7 @@ cd forum_app
 flutter run
 ```
 
-### 📂 Structure :
-```
-lib/
-├── main.dart              # App principale + navigation
-├── models/
-│   └── post.dart         # Modèle de données
-└── screens/
-    ├── forum_screen.dart      # Liste des discussions
-    ├── post_detail_screen.dart # Détail + réponses
-    ├── create_post_screen.dart # Création post
+
     └── profile_screen.dart     # Profil utilisateur
 ```
 
